@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2018 <strong>GIMNASIO COLOSSUS </strong></footer>
